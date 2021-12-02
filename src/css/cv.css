@@ -15,7 +15,7 @@ body {
 
 .profil-skills-container .img-container {
   width: 65%;
-  height: 280px;
+  height: 240px;
   border-radius: 50%;
   overflow: hidden;
   border: 2px solid black;
@@ -172,7 +172,7 @@ body {
 .experience-container .header-container {
   background-color: #f3d59d;
   width: 100%;
-  height: 180px;
+  height: 200px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
