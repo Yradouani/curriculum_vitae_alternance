@@ -14,7 +14,8 @@ body {
 }
 
 .profil-skills-container .img-container {
-  width: 70%;
+  width: 65%;
+  height: 280px;
   border-radius: 50%;
   overflow: hidden;
   border: 2px solid black;
