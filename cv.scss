@@ -6,10 +6,12 @@ body {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
+    font-size: 18px;
 }
 
+
 .profil-skills-container {
-    width: 30%;
+    width: 35%;
     background-color: $color-1;
 
     .img-container {
@@ -34,7 +36,6 @@ body {
         flex-direction: column;
         color: white;
         margin: 10px 22px;
-        font-size: 16px;
     }
     .icon {
         margin: 5px 0;
@@ -61,7 +62,6 @@ body {
             width: 90%;
 
             span {
-                font-size: 16px;
                 font-weight: 400;
             }
         }
